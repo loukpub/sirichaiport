@@ -16,7 +16,7 @@
 - 🌱  I’m currently learning **⟪New Tech/Framework⟫**  
 - 🛠  Daily driver stack: **⟪Key Languages / Frameworks⟫**  
 - 🎯  2025 Goal: **⟪High-impact goal (e.g., ship an OSS library)⟫**  
-- 📫  Reach me: **⟪sirichai1133@gmail.com⟫** | [LinkedIn](⟪url⟫) | [X/Twitter](⟪url⟫)
+- 📫  Reach me: **⟪sirichai1133pub@gmail.com⟫** | [LinkedIn](⟪url⟫) | [X/Twitter](⟪url⟫)
 
 ---
 
@@ -44,7 +44,7 @@
 ## 🤝 Let’s Connect
 > **“Great products are built by great people working together.”**
 
-- 💌 Email: ⟪email@example.com⟫  
+- 💌 Email: ⟪sirichai1133pub@gmail.com⟫  
 - 📝 Schedule a coffee chat: ⟪Calendly link⟫  
 - 🐦 DM me on [X/Twitter](⟪url⟫)
 
