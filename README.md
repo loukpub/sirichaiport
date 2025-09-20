@@ -3,7 +3,7 @@
   <img src="ออกแบบ Banner มาใส่ตรงนี้เลย" alt="header image" />
 </p>
 
-<h1 align="center">Hi, I’m ⟪YOUR NAME⟫ <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
+<h1 align="center">Hi, I’m Sirichai <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
 
 <p align="center">
   <strong>Full-stack Engineer • Tech Educator • Lifelong Learner</strong><br/>
@@ -16,7 +16,7 @@
 - 🌱  I’m currently learning **⟪New Tech/Framework⟫**  
 - 🛠  Daily driver stack: **⟪Key Languages / Frameworks⟫**  
 - 🎯  2025 Goal: **⟪High-impact goal (e.g., ship an OSS library)⟫**  
-- 📫  Reach me: **⟪email@example.com⟫** | [LinkedIn](⟪url⟫) | [X/Twitter](⟪url⟫)
+- 📫  Reach me: **⟪sirichai1133@gmail.com⟫** | [LinkedIn](⟪url⟫) | [X/Twitter](⟪url⟫)
 
 ---
 
@@ -32,26 +32,6 @@
 
 </div>
 
----
-
-## 📌 Featured Projects
-| Project | Tech | Highlights | Links |
-|---------|------|-----------|-------|
-| **⟪Project A⟫** | React · Node · PostgreSQL | Real-time dashboard handling 100k req/min | [Repo](⟪url⟫) · [Live](⟪url⟫) |
-| **⟪Project B⟫** | Python · FastAPI | Deployed on AWS Lambda; 99.9% uptime | [Repo](⟪url⟫) |
-| **⟪Project C⟫** | Figma · TypeScript | Design System adopted by 3 teams | [Case Study](⟪url⟫) |
-
-_Add 2–4 projects max. Each row should fit on one screen._
-
----
-
-## ✍🏻 Recent Blog / Talks
-<!-- GH Action can automate this section; placeholder for manual list -->
-- ⟪May 2025⟫ • **Observable-Ready Dashboards** at BangkokJS  
-- ⟪Apr 2025⟫ • Published *“Scalable Monorepo Patterns”* on Medium  
-- ⟪Mar 2025⟫ • Panel speaker at DevCon Asia: *Modern DevOps*
-
----
 
 ## 📈 GitHub Stats
 <div align="center">
