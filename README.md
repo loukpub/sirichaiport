@@ -1,7 +1,4 @@
 <!-- Banner / Cover -->
-<p align="center">
-  <img src="ออกแบบ Banner มาใส่ตรงนี้เลย" alt="header image" />
-</p>
 
 <h1 align="center">Hi, I’m Sirichai <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
 
@@ -14,7 +11,7 @@
 
 ## 🚀 About Me
 - 🌱  I’m currently learning **SpringBoot now**  
-- 🛠  Daily driver stack: **Java,JavaScrip**  
+- 🛠  Daily driver stack: **Java,JavaScript**  
 - 🎯  2025 Goal: **Seeking an entry-level Backend Developer position to apply my skills in API development, database design, and server-side logic while continuously learning and growing in a dynamic team.**  
 
 ---
@@ -33,8 +30,8 @@
 
 ## 📈 GitHub Stats
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Lookplub&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=667eea" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lookplub&layout=compact&langs_count=8&theme=tokyonight&border_color=f093fb" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=loukpub&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=667eea" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loukpub&layout=compact&langs_count=8&theme=tokyonight&border_color=f093fb" />
 </div>
 
 ---
