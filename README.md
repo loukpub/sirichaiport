@@ -34,8 +34,8 @@
 
 ## 📈 GitHub Stats
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=⟪USERNAME⟫&show_icons=true&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=⟪USERNAME⟫&layout=compact&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Lookplub&show_icons=true&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lookplub&layout=compact&hide_border=true" />
 </div>
 
 ---
@@ -47,5 +47,5 @@
 - 📞 phone: 063-681-7376
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=⟪USERNAME⟫&style=flat-square" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Lookplub&style=flat-square&color=blue" alt="profile views"/>
 </p>
