@@ -16,7 +16,6 @@
 - 🌱  I’m currently learning **⟪New Tech/Framework⟫**  
 - 🛠  Daily driver stack: **⟪Key Languages / Frameworks⟫**  
 - 🎯  2025 Goal: **⟪High-impact goal (e.g., ship an OSS library)⟫**  
-- 📫  Reach me: **⟪sirichai1133pub@gmail.com⟫** | [LinkedIn](⟪url⟫) | [X/Twitter](⟪url⟫)
 
 ---
 
@@ -45,8 +44,7 @@
 > **“Great products are built by great people working together.”**
 
 - 💌 Email: ⟪sirichai1133pub@gmail.com⟫  
-- 📝 Schedule a coffee chat: ⟪Calendly link⟫  
-- 🐦 DM me on [X/Twitter](⟪url⟫)
+- 📞 phone: 063-681-7376
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=⟪USERNAME⟫&style=flat-square" alt="profile views"/>
