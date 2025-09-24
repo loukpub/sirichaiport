@@ -6,16 +6,16 @@
 <h1 align="center">Hi, I’m Sirichai <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
 
 <p align="center">
-  <strong>Full-stack Engineer • Tech Educator • Lifelong Learner</strong><br/>
+  <strong>BACKEND developer </strong><br/>
   <em>“Turning ideas into delightful, scalable software.”</em>
 </p>
 
 ---
 
 ## 🚀 About Me
-- 🌱  I’m currently learning **⟪New Tech/Framework⟫**  
-- 🛠  Daily driver stack: **⟪Key Languages / Frameworks⟫**  
-- 🎯  2025 Goal: **⟪High-impact goal (e.g., ship an OSS library)⟫**  
+- 🌱  I’m currently learning **SpringBoot now**  
+- 🛠  Daily driver stack: **Java,JavaScrip**  
+- 🎯  2025 Goal: **Seeking an entry-level Backend Developer position to apply my skills in API development, database design, and server-side logic while continuously learning and growing in a dynamic team.**  
 
 ---
 
@@ -24,10 +24,9 @@
 
 | Domain | Primary | Comfortable | Currently Exploring |
 |--------|---------|-------------|---------------------|
-| Front-end | ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white) | ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs) | ![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?logo=svelte&logoColor=white) |
-| Back-end | ![Node](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white) | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white) | ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) |
-| Database | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) | ![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white) |  |
-| DevOps | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white) | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white) |
+| Front-end | ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |  |
+| Back-end | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | ![SpringBoot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) |  |
+| Database | ![MYSQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) | ![ORACLE](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white) |  |
 
 </div>
 
@@ -43,7 +42,7 @@
 ## 🤝 Let’s Connect
 > **“Great products are built by great people working together.”**
 
-- 💌 Email: ⟪sirichai1133pub@gmail.com⟫  
+- 💌 Email: sirichai1133pub@gmail.com  
 - 📞 phone: 063-681-7376
 
 <p align="center">
